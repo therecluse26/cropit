@@ -1,0 +1,12 @@
+{
+    "name": "scottcheng/cropit",
+    "description": "A 'customizable crop and zoom' jQuery plugin.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Scott Cheng",
+            "email": "aloha@scottcheng.com",
+            "role": "Developer"
+        }
+    ]
+}
